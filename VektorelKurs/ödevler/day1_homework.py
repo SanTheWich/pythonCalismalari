@@ -1,0 +1,10 @@
+print("Merhaba")
+print("Yasin Talha Karabudak")
+print("Yasin Talha Karabudak\n94\n5364572484")
+print("**** Ögrenci Bilgileri ****")
+print("    Adı    : YASİN TALHA")
+print("    Soyadı  : KARABUDAK ")
+print("    Numarası: 1222  ")
+print("***************************")
+print("Ali\'nin annesi \"gel\" dedi")
+print("Yasin"*100);print("Yasin\n"*10)#noktalo virgül ile tek satırda yazılıyor.
