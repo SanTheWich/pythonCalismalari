@@ -1,4 +1,4 @@
-# #
+# #ASDA
 # #!  "w" write üzerine yazar 
 # abc = open("c:\\Users\\yasin\\Desktop\\Python\\OrtaSeviye\\rehber.txt", "w")
 # abc.write("Dosyaya kayded-2.\nİkinci satır!!\n")
