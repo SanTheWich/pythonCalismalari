@@ -11,6 +11,6 @@ try:
     password="1234" # MySQL Community Server kurulumu aşamasında size sorduğu şifre
   )
   print("Bağlantı tamam:", mydb)
-  secilen
+  # secilen
 except:
   print("Veritabanına bağlanırken bir hata oluştu.")
